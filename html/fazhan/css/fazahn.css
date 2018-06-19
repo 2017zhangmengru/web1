@@ -1,0 +1,331 @@
+*{
+	padding:0;
+	margin:0;
+}
+ul,li,ol{
+	list-style:none;
+}
+a{
+	text-decoration: none;
+}
+.box{
+	width:1300px;
+	height:2730px;
+	margin:0 auto;
+	background-color: #f9f9f9;
+}
+.head{
+	margin:0 auto;
+	width:1300px;
+	height:153px;
+	background-color:#fff;
+}
+.logo img{
+	position:relative;
+	left:100px;
+	top:34px;
+}
+.a2{
+	width:220px;
+	height:40px;
+	left: 750px;
+	position:relative;
+	top: -10px;
+	font-size: 22px;
+	color:#0b4199;
+}
+.a1{
+	width:270px;
+	height:25px;
+	font-size: 16px;
+	color:#7d7d7d;
+	position:relative;
+	top:-47px;
+	right:-1000px;
+}
+.a3{
+	position:relative;
+	top:-30px;
+	left:80px;
+	width:1210px;
+	height:48px;
+}
+.a3 ul li{
+	float:left;
+	list-style-type: none;
+	margin-right: 27px;
+}
+.a3 ul li a{
+	color:#282828;
+	text-align: center;
+	margin-top: 10px;
+	display:block;
+	width:84px;
+	height:53px;
+	line-height: 53px;
+	margin:0 auto;
+}
+.a3 ul li a:hover{
+	background:#2756a4;
+	color:#fff;
+}
+.a3 input{
+	margin-left: 55px;
+	width:200px;
+	border:1px solid #e2e2e2;
+	height:37px;
+	background-color: #ebeaea;
+	background-image: url(images/sousuo.png);
+	background-repeat: no-repeat;
+	padding:0 0 0 10px;
+}
+.a1 select{
+	border:0;
+	background-color: transparent;
+    color:#ef2c34;    
+   -webkit-appearance:none;
+}
+.zz p{
+	width:270px;
+	font-size: 14px;
+	position:relative;
+	top:0px;
+	left:100px;
+}
+a{
+	color:#999;
+}
+a:hover{
+	color:#0b4199;
+}
+.aa{
+	color:#3e3e3e;
+	font-size: 24px;
+	position:relative;
+	top:40px;
+	left:100px;
+}
+.bb{
+	color:#666;
+	font-size: 14px;
+	position:relative;
+	top:45px;
+	left:100px;
+}
+.cc{
+	margin-top:70px;
+	margin-left:83px;
+	width:1150px;
+	height:0;
+	border-top:1px #cfcfcf dashed;
+}
+.dd img{
+	position:relative;
+	top:20px;
+	left:80px;
+	width:1150px;
+}
+span{
+	position:relative;
+	top:40px;
+	left:80px;
+	font-size: 22px;
+	color:#4b4b4b;
+}
+p{
+	position:relative;
+	top:50px;
+	left:80px;
+	width:1150px;
+	color:#4b4b4b;
+	font-size: 16px;
+	line-height:24px; 
+}
+.b1{
+	width:1150px;
+	height:1233px;
+	position:relative;
+	top:80px;
+	left:70px;
+}
+.b1 ul{
+	width:1200px;
+	height:600px;
+}
+.b1 ul li{
+	margin-right: 30px;
+	margin-top:30px;
+	width:360px;
+	height:580px;
+	float:left;
+	border-right:1px solid #ccc;
+	font-size: 16px;
+	color:#4b4b4b;
+	line-height: 27px;
+}
+.b1 ul li img{
+	margin-left: 25px;
+	margin-top: 10px;
+	width:300px;
+}
+.b2{
+	margin: 20px 25px;
+	font-size: 20px;
+	color:#4b4b4b;
+}
+.b3{
+	height:600px;
+	width:300px;
+	margin-left: 30px;
+	text-indent: 2em;
+}
+.b1 ul li:last-child{
+	border-right:none;
+}
+.d1{
+	margin: auto;
+	position:relative;
+	top:170px;
+	left:0px;
+	width:1300px;
+	height:61px;
+	background-color:#0b4199;
+}
+.d2{
+	position:relative;
+	left:199px;
+	top:17px;
+}
+.d3{
+	position:relative;
+	top:-15px;
+	left:240px;
+	font-size: 16px;
+	color:#fff;
+	width:120px;
+}
+.d4{
+	position:relative;
+	left:500px;
+	top:-40px;
+}
+.d5{
+	position:relative;
+	left:550px;
+	top:-75px;
+	font-size: 16px;
+	color:#fff;
+	width:150px;
+}
+.d6{
+	width:100px;
+	position:relative;
+	left:950px;
+	top:-103px;
+	font-size: 16px;
+	color:#fff;
+}
+.d7{
+	position:relative;
+	top:-135px;
+	left:1020px;
+	float:left;
+}
+.e1{
+	margin:auto;
+	position:relative;
+	left:0px;
+	top:170px;
+	width:1300px;
+	height:308px;
+	background-color:#454545; 
+}
+.e2{
+	width:650px;
+	height:200px;
+	position:relative;
+	top:40px;
+	left:200px;
+}
+.e2 ul{
+	width:750px;
+	height:200px;
+	position:relative;
+}
+.e2 ul li{
+	position: relative;
+	top:-82px;
+	left:-92px;
+	float:left;
+	width:121px;
+	height:200px;
+	margin-left: 10px;
+	font-size: 12px;
+	color:#fff;
+	line-height: 20px;
+}
+.e3{ 
+	font-size: 14px;
+	color:#fff;
+}
+.e1 img{
+	position:relative;
+	top:-170px;
+	left:110px;
+}
+.e4{
+	height:200px;
+	width:300px;
+	position:relative;
+	top:-370px;
+	left:890px;
+	font-size: 14px;
+	color: #fff;
+}
+.e4 img{
+	position:relative;
+	left:0px;
+	top:0px;
+}
+.e4 span{
+	position:relative;
+	top:-10px;
+	left:0px;
+	color:#fff;
+	font-size: 12px;
+}
+.e5{
+	position:relative;
+	color:#fff;
+	font-size: 12px;
+	top:-320px;
+	left:200px;
+	width:1000px;
+}
+.f{
+	width:86px;
+	height:310px;
+	position:fixed;
+	top:303px;
+	right:70px;
+}
+.f ul{
+	width:86px;
+	height:310px;
+}
+.f ul li{
+	padding-top: 7px;
+	background-color:#b0b0b0;
+	float:left;
+	width:86px;
+	height:76px;
+	border-bottom:1px  solid #fff;
+	font-size: 14px;
+	color:#fff;
+	text-align: center;
+}
+.z{
+	position:absolute;
+	top:105px;
+	right:120px;
+}
