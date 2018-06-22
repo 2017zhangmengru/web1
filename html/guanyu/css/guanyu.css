@@ -179,6 +179,10 @@ a:hover{
 	font-size: 14px;
 	line-height: 50px;
 }
+.c1 a{
+	font-size:14px;
+	color:#2756a4;
+}
 .c1 span{
 	position:relative;
 	top:10px;
