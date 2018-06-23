@@ -97,12 +97,11 @@ option{
 .in{
 	position: relative;
 }
-.in button{
-	border: none;
-	position: absolute;
-	left: 1328px;
-	top: 9px;
+.kk{	
 	background-color: #ebeaea;
+	display: inline-block;
+	margin-left: -48px;
+	margin-top: 9px;
 }
 input{
 	display: inline-block;
