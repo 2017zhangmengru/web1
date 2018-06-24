@@ -11,9 +11,6 @@ a{
 body{
 	width: 100%;
 }
-.max{
-	margin: 0 auto;
-}
 /*header开始*/
 .header{
 	width: 100%;
@@ -143,13 +140,11 @@ body{
 }
 .gua{
 	width: 1200px;
-	height: 375px;
-	margin-left: 170px;
 }
 .ti{
 	width: 100%;
 	float: left;
-	margin-left: 20px;
+	margin-left: 180px;
 }
 .ti h1{
 	font: 24px '微软雅黑';
@@ -162,16 +157,17 @@ body{
 	border-bottom: dashed 1px #cccccc;
 }
 .building{
-	width: 400px;
-	position: relative;
-	left: 830px;
-	bottom: 48px;
+	position: absolute;
+	left: 1014px;
+	top: 290px;
 }
 .list{
 	width: 100%;
-	margin-top: -310px;
+	height: 400px;
+	margin-left: 180px;
 }
-.list li{
+
+.list ul li{
 	line-height: 30px;
 	width: 600px;
 	height: 30px;
@@ -180,10 +176,10 @@ body{
 	margin-bottom: 5px;
 	border-radius: 5px;
 }
-.list li span{
+.list ul li span{
 	margin-left: 19px;
 }
-.list li a{
+.list ul li a{
 	color: red;
 	float: right;
 	margin-right: 28px;
