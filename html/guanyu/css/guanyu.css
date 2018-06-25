@@ -216,25 +216,25 @@ a:hover{
 .d4{
 	position:relative;
 	left:500px;
-	top:-40px;
+	top:-50px;
 }
 .d5{
 	position:relative;
 	left:550px;
-	top:-70px;
+	top:-85px;
 	font-size: 16px;
 	color:#fff;
 }
 .d6{
 	position:relative;
 	left:950px;
-	top:-103px;
+	top:-113px;
 	font-size: 16px;
 	color:#fff;
 }
 .d7{
 	position:relative;
-	top:-135px;
+	top:-145px;
 	left:1020px;
 	float:left;
 }
@@ -251,12 +251,12 @@ a:hover{
 	width:1000px;
 	height:88px;
 	position:relative;
-	top:80px;
+	top:40px;
 	left:200px;
 }
 .e1 ul li{
 	position:relative;
-	top:-85px;
+	top:-105px;
 	left:-95px;
 	color:#fff;
 	width:180px;
@@ -270,7 +270,7 @@ a:hover{
 	width:860px;
 	height:141px;
 	position:relative;
-	top:-50px;
+	top:-70px;
 	left:95px;
 }
 .e2 ul li{
@@ -284,12 +284,12 @@ a:hover{
 }
 .e3{
 	position:relative;
-	top:-67px;
+	top:-77px;
 	left:50px;
 }
 .e4{
 	position:relative;
-	top:-270px;
+	top:-290px;
 	left:870px;
 	height:196px;
 	width:320px;
@@ -307,7 +307,7 @@ a:hover{
 .e6{
 	position:relative;
 	width:700px;
-	top:10px;
+	top:-5px;
 	left:500px;
 	font-size: 12px;
 	color:#fff;
