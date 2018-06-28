@@ -18,7 +18,7 @@ body{
 	float:left;
 	background-color: white;
 }
-.one a{
+.one1{
 	margin-left: 90px;
 	margin-right:169px; 
 	display:inline-block;
@@ -57,17 +57,49 @@ body{
 	width:100%;
 	height:69px;
 	float:left;
+	position: relative;
+	top:10px;
+}
+.oneb a{
+	display: inline-block;
+
 }
 .oneb1{
 	margin-left:90px;
 	margin-top: 24px;
 	text-align:center center;
 	float:left;
+	position: relative;
+	right: 25px;
+}
+.oneb1 a{
+	width: 100px;
+	height: 0px;
 }
 .oneb1 li{
+	text-align: center;
+	width: 100px;
 	display:inline-block;
 	font-size: 18px;
-	margin-right:45px;
+	margin-right:10px;
+	padding-top:13px;
+	position: relative;
+	bottom: 13px;
+}
+.oneb1 li:hover{
+	text-align: center;
+	height: 45px;
+	background-color: #2756a4;
+	color:white;
+}
+.oneb1{
+	color:black;
+}
+.oneb1 a:hover{
+	text-align: center;
+	height: 45px;
+	background-color: #2756a4;
+	color:white;
 }
 .oneb2{
 	height: 33px;
@@ -102,6 +134,7 @@ body{
 	position: fixed;
 	top:115px;
 	right: 0px;
+	z-index: 10;
 }
 .twob1{
 	height: 88px;
@@ -337,12 +370,10 @@ body{
 	background-color:#e9eaee; 
 	text-align: center;
 	padding-top: 12px;
-	float:left;
 }
 .foura{
 	width: 1200px;
 	height: 540px;
-	/*margin-left: 73px;*/
 	background-color: white;
 	float:left;
 }
@@ -584,11 +615,13 @@ body{
 	text-align:left;
 	display:inline-block;
 }
+
 .six{
+	z-index: 1;
+	float: left;
 	height: 76px;
 	width:1349px;
 	background-color: #0b4199;
-	float:left;
 	position:relative;
 	left:-73px;
 	text-align:left;
@@ -603,22 +636,29 @@ body{
 	color: white;
 	font-size:20px; 
 	margin-right: 145px;
+	position: relative;
+	bottom: 10px;
 }
 .six2 p{
 	display:inline-block;
 	color: white;
 	font-size:20px;
 	margin-right: 483px;
+	position: relative;
+	bottom: 10px;
 }
 .six3 p{
 	display:inline-block;
 	color: white;
 	font-size:20px;
+	position: relative;
+	bottom: 10px;
 }
 .six img{
 	display:inline-block;
 }
 .seven{
+	z-index: 1;
 	height: 241px;
 	width:1349px;
 	background-color: #454545;
@@ -692,6 +732,8 @@ body{
 	margin-right:30px; 
 	font-size:14px;
 	margin-left: 12px;
+	position: relative;
+	bottom: 18px;
 }
 .seven63{
 	display:inline-block;
@@ -703,15 +745,21 @@ body{
 	color:#dbdbdb;
 	margin-top:10px;
 	font-size:12px;
+	position: relative;
+	top:15px;
 }
 .seven8{
 	margin-right: 100px;
 	color:#dbdbdb;
 	margin-top:10px;
 	font-size:12px;
+	position: relative;
+	top:15px;
 }
 .seven9{
 	color:#dbdbdb;
 	margin-top:10px;
 	font-size:12px;
+	position: relative;
+	top:15px;
 }
