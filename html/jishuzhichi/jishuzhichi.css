@@ -92,8 +92,8 @@ a{
 .sslogo{
 	float: right;
 	position: relative;
-	left: 235px;
-	top: 10px;
+	bottom:30px;
+	right:5px;
 }
 
 /*内容*/
