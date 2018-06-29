@@ -92,7 +92,7 @@ a{
 .sslogo{
 	float: right;
 	position: relative;
-	bottom:30px;
+	bottom:0px;
 	right:5px;
 }
 
